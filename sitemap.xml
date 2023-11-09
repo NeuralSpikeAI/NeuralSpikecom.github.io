@@ -2,69 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://octoo.ai/experience/semantic_seg/</loc>
+    <loc>http://neuralspike.ai/experience/semantic_seg/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/gen_ai/</loc>
+    <loc>http://neuralspike.ai/experience/gen_ai/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/robo_cart/</loc>
+    <loc>http://neuralspike.ai/experience/robo_cart/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/plugin_net/</loc>
+    <loc>http://neuralspike.ai/experience/plugin_net/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/oven/</loc>
+    <loc>http://neuralspike.ai/experience/oven/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/smarthome/</loc>
+    <loc>http://neuralspike.ai/experience/smarthome/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/queue/</loc>
+    <loc>http://neuralspike.ai/experience/queue/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/therapy/</loc>
+    <loc>http://neuralspike.ai/experience/therapy/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/parcel/</loc>
+    <loc>http://neuralspike.ai/experience/parcel/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/tele_op/</loc>
+    <loc>http://neuralspike.ai/experience/tele_op/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/med_segmentation/</loc>
+    <loc>http://neuralspike.ai/experience/med_segmentation/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/esa/</loc>
+    <loc>http://neuralspike.ai/experience/esa/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/</loc>
+    <loc>http://neuralspike.ai/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/team/michal/</loc>
+    <loc>http://neuralspike.ai/team/michal/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/team/</loc>
+    <loc>http://neuralspike.ai/team/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/team/tomek_k/</loc>
+    <loc>http://neuralspike.ai/team/tomek_k/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/experience/</loc>
+    <loc>http://neuralspike.ai/experience/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/team/tomek_m/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://octoo.ai/about/</loc>
+    <loc>http://neuralspike.ai/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://octoo.ai/categories/</loc>
+    <loc>http://neuralspike.ai/categories/</loc>
   </url><url>
-    <loc>http://octoo.ai/contact/</loc>
+    <loc>http://neuralspike.ai/contact/</loc>
   </url><url>
-    <loc>http://octoo.ai/tags/index/</loc>
+    <loc>http://neuralspike.ai/tags/index/</loc>
   </url><url>
-    <loc>http://octoo.ai/tags/</loc>
+    <loc>http://neuralspike.ai/tags/</loc>
   </url>
 </urlset>
