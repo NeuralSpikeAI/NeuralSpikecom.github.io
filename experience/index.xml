@@ -98,12 +98,12 @@
     </item>
     
     <item>
-      <title>Segmentation from fMRI scans.</title>
+      <title>Medical Image Processing</title>
       <link>http://neuralspike.ai/experience/med_segmentation/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
       <guid>http://neuralspike.ai/experience/med_segmentation/</guid>
-      <description>The project focused on developing models for organ segmentation from fMRI and CT scans. The work required building models capable of efficiently operating on high-volume 3D data, ensuring precise and reliable segmentation outcomes.</description>
+      <description>We have an extensive backround in medical image processing, especially in 3D volumes of MRI and CT. Our works included models development capable of efficiently operating on high-volume 3D data, ensuring precise and reliable segmentation, localization, classification and simulation outcomes.</description>
     </item>
     
     <item>
